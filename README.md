@@ -10,5 +10,5 @@ pronto ele ja funciona acesse [LOCALHOST](http://localhost)
 Você tera uma tela linda e arrumada com seus projetos em PHP
 ja vem com boostrap, fontwasome, e uma leitura automaica das pastas e lista automatica dos seus projetos
 ##resultado
-[Isso é uma imagem](./localhost.jpg)
+[Isso é uma imagem](https://github.com/chags/Desk-Xampp/blob/main/localhost.JPG?raw=true)
 
